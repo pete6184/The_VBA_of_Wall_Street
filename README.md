@@ -1,7 +1,7 @@
 # VBA Homework - The VBA of Wall Street
 
 ## Requirements
-Again, the only requirement for this assignment was Excel. We did get intriduced to the 'Developer' tab and Visual Basic which was fun. I enjoyed finding
+The only requirement for this assignment was Excel. We did get introduced to the 'Developer' tab and Visual Basic which was fun. I enjoyed learning new ways to format and style cells. I also enjoyed the ease of writing the code and applying it to multiple sheets within the workbook.
 
 ## Background
 You are well on your way to becoming a programmer and Excel master! In this homework assignment you will use VBA scripting to analyze real stock market data. Depending on your comfort level with VBA, you may choose to challenge yourself with a few of the challenge tasks.
