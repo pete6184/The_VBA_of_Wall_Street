@@ -1,4 +1,4 @@
-# VBA Homework - The VBA of Wall Street
+# The VBA of Wall Street
 
 ## Requirements & Summary
 The only requirement for this assignment was Excel. We did get introduced to the 'Developer' tab and Visual Basic which was fun. I enjoyed learning new ways to format and style cells. I also enjoyed the ease of writing the code and applying it to multiple sheets within the workbook.
