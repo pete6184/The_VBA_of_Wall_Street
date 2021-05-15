@@ -1,7 +1,7 @@
 # The VBA of Wall Street
 
 ## Requirements & Summary
-The only requirement for this assignment was Excel. In order to access the code the 'Developer' needs to be activated in the settings.
+The only requirement for this assignment was Excel. In order to access the code, the 'Developer' needs to be activated in the settings.
 
 
 ![2014_data](https://user-images.githubusercontent.com/74940976/118373221-8eb01f80-b56a-11eb-93af-69b5409c795e.PNG)
